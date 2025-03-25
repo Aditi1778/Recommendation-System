@@ -31,15 +31,11 @@ The dataset consists of Amazon product reviews, including:
 ## Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/amazon-recommendation.git
+   git clone https://github.com/Aditi1778/Recommendation-System.git
    ```
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
-   ```
-3. Run the model:
-   ```bash
-   python recommendation.py
    ```
 
 ## Results & Insights
